@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#d74b39"
+backgroundColor="#270598"
+secondaryBackgroundColor="rgb(29, 21, 138)"
+textColor="#f8f9fa"
+font="sans serif"
+
+# Additional settings
+base="light"
